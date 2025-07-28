@@ -1,0 +1,100 @@
+#parentdiv{
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+
+
+
+
+#subparentdiv{
+    background-color: rgb(220, 215, 224);
+    height: 400px;
+    width: 1200px;
+}
+  
+
+#anchor1{
+background-color: white;
+color: black;
+text-decoration: none;
+float: right;
+margin-top: 10px;
+margin-right: 15px;
+width: 145px;
+height: 20px;
+border-radius: 5px;
+padding-left: 5px;
+
+
+
+}
+
+
+#p1{
+    font-size: 40px;
+    color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 150px;
+    margin-bottom: 15px;
+}
+
+#img1{
+    width: 10px;
+    height: 10px;
+}
+
+.divstyle{
+    border: 1px solid rgb(190, 158, 190);
+    background-color: rgb(252, 249, 252);
+    padding: 2px 12px;
+    display: inline flex;
+    margin-right: 5px;
+    border-radius: 15px;
+    margin-top: 0px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.smalldiv2{
+    border: 2px solid purple;
+    padding: 1px 11px;
+}
+
+.img2{
+    width: 15px;
+    height: 15px;
+}
+
+.divstyle2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(119, 0, 255);
+}
+
+#parent{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.image{
+    height: 25px;
+    height: 25px;
+    padding-top: 7px;
+    
+    
+}
+
+.text{
+
+    border-radius: 10px;
+}
+
+
